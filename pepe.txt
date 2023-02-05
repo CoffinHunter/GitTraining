@@ -16,3 +16,7 @@ master new commit_3
 
 
 trying to resolve merge conflict_master change
+master new commit_2
+
+trying to resolve merge conflict_feature2 change
+
