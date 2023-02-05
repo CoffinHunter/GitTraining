@@ -13,3 +13,6 @@ Metroid android
 pewdiepie
 
 master new commit_3
+
+
+trying to resolve merge conflict_master change
