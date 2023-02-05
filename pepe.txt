@@ -13,3 +13,5 @@ Metroid android
 pewdiepie
 
 master new commit_2
+
+trying to resolve merge conflict_feature2 change
